@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/jaadui_chirag" target="blank"><img src="https://img.shields.io/twitter/follow/jaadui_chirag?logo=twitter&style=for-the-badge" alt="jaadui_chirag" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Next.JS**
 
 - 👨‍💻 You can check my portfolio at [https://chirag4862.github.io/Portfolio/#home](https://chirag4862.github.io/Portfolio/#home)
 
