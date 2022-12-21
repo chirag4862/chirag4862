@@ -29,5 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chirag4862&show_icons=true&locale=en" alt="chirag4862" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chirag4862&" alt="chirag4862" /></p>
-
-[![@chirag4862's Holopin board](https://holopin.io/api/user/board?user=chirag4862)](https://holopin.io/@chirag4862)
