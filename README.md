@@ -11,6 +11,10 @@
 
 - 📫 How to reach me **chiragrvijay@gmail.com**
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="09f2e380-9298-4f71-afc8-f3aaa1f83232" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="97808d08-a89a-49c0-8133-50ce3827d265" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jaadui_chirag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaadui_chirag" height="30" width="40" /></a>
