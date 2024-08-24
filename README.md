@@ -23,7 +23,7 @@
 
 
 ### Glad to see you here!  
-I am a highly motivated and detail-oriented Frontend Developer with a passion for creating visually appealing and user-friendly websites and applications. With a Bachelor's degree in Computer Science Engineering and experience in 3D modeling and game development, I am proficient in a range of programming languages and libraries. As an effective problem-solver and collaborator, I have built a strong portfolio of projects that showcase my skills in creating immersive 3D environments, designing and modeling virtual merchandise, and developing cross-platform mobile apps. In addition to my technical skills, I am also skilled in effective communication and always looking for new ways to streamline and optimize my work.  
+I am an innovative and results-driven Python Developer with a strong background in AI and ML technologies, complemented by a Bachelor’s degree in Computer Science Engineering. My expertise spans OCR technologies, vector databases, and the software development life cycle (SDLC). With hands-on experience in enhancing deep learning and computer vision solutions, optimizing performance, and leading cross-functional teams, I have successfully implemented advanced data extraction systems and significantly improved system performance. Passionate about leveraging my skills to solve complex problems and contribute to dynamic teams, I am dedicated to delivering impactful solutions and continuously seeking opportunities for growth and optimization in my work.  
   
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=chirag4862&&style=flat-square)  
@@ -35,13 +35,13 @@ I am a highly motivated and detail-oriented Frontend Developer with a passion fo
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on my project [Hive Jobs](https://github.com/chirag4862/Hive-Jobs)  
+- 🔭 I’m currently working on my project [Data-Retrieval-Reranking](https://github.com/chirag4862/Data-Retrieval-Reranking)  
   
 
-- 🌱 I’m currently learning ReactJS/Native & Data Analysis  
+- 🌱 I’m currently learning Computer Vision & Deep Learning  
   
 
-- ❓ Ask me about anything related to Frontend and related technologies  
+- ❓ Ask me about anything related to AI and Machine Learning related technologies  
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
@@ -50,7 +50,7 @@ I am a highly motivated and detail-oriented Frontend Developer with a passion fo
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://giphy.com/embed/E1w0yvMxBIv5M8WkL8" align="center" style="width: 100%" />
 </div>  
 
 
@@ -60,19 +60,13 @@ I am a highly motivated and detail-oriented Frontend Developer with a passion fo
 
 
 ## Languages and Tools  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="35" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="35" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="35" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="35" /></a>  
+<div align="center">   
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="35" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" /></a>    
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="35" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="35" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="35" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="35" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="35" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="35" /></a>  
 </div>  
 
 <br/>  
