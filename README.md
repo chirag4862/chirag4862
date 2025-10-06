@@ -49,9 +49,9 @@ I am an innovative and results-driven Python Developer with a strong background 
 
 </td><td valign="top" width="50%">
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2b2a93c8-4461-4372-8904-b28580fdc6d4" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>  
-
+<a href="https://www.credly.com/badges/2b2a93c8-4461-4372-8904-b28580fdc6d4/public_url" target="_blank">
+  <img src="https://images.credly.com/size/200x200/images/2b2a93c8-4461-4372-8904-b28580fdc6d4/badge.png" width="150" alt="Credly Badge"/>
+</a>
 
 </td></tr></table>  
 
