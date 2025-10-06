@@ -49,9 +49,7 @@ I am an innovative and results-driven Python Developer with a strong background 
 
 </td><td valign="top" width="50%">
 
-<div align="center">
-<img src="https://giphy.com/embed/E1w0yvMxBIv5M8WkL8" align="center" style="width: 100%" />
-</div>  
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2b2a93c8-4461-4372-8904-b28580fdc6d4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>  
 
 
 </td></tr></table>  
